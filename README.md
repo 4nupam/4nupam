@@ -1,6 +1,6 @@
 🧑‍🎓 B-Tech Computer Science @LPU 23'.
 
-🔭 I’m currently working on understanding  Development.
+🔭 I’m currently working on understanding of  Development.
 
 😄 Pronouns: He/Him.
  
