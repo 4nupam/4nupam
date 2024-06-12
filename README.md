@@ -1,12 +1,12 @@
-🧑‍🎓 B-Tech Computer Science @LPU 23'.
+🧑‍🎓 B-Tech Computer Science @LPU '23
 
-🔭 I’m currently working on understanding of  Development.
+🔭 Exploring the Depths of Development
 
-😄 Pronouns: He/Him.
+😄 Pronouns: He/Him
  
  CODE USING:
  
- REACT JS | NEXT JS | JAVASCRIPT | HTML5 | CSS | TAILWIND | SQL | MY SQL | DSA
+React JS | JavaScript | HTML5 | CSS | Tailwind | SQL | MySQL | DSA | Python
  
  HOW TO REACH ME:
  
@@ -21,7 +21,7 @@
  
  
  TWITTER :
- https://twitter.com/4nupm1
+ https://x.com/4nupam_
 <!---
 4nupam/4nupam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
