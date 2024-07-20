@@ -16,7 +16,7 @@ React JS | JavaScript | HTML5 | CSS | Tailwind | SQL | MySQL | DSA | Python
  MUST VISIT :
  https://ecommerce-ten-phi-62.vercel.app/
  
- Portfolio
+ PORTFOLIO
  https://anupam-portfolio-sigma.vercel.app/
  
  
