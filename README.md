@@ -1,8 +1,6 @@
 🧑‍🎓 B-Tech Computer Science @LPU '23
 
 🔭 Exploring the Depths of Development
-
-😄 Pronouns: He/Him
  
  CODE USING:
  
