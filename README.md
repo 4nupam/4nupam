@@ -16,10 +16,6 @@ React JS | JavaScript | HTML5 | CSS | Tailwind | SQL | MySQL | DSA | Python
  
  PORTFOLIO
  https://anupam-portfolio-sigma.vercel.app/
- 
- 
- TWITTER :
- https://x.com/4nupam_
 <!---
 4nupam/4nupam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
