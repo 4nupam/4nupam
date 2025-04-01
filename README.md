@@ -2,6 +2,9 @@
 
  
  HOW TO REACH ME:
+
+ GMAIL : 
+ dev.anupamupadhyay@gmail.com
  
  LINKEDIN :
  https://www.linkedin.com/in/anupam-upadhyay-504a1b208
