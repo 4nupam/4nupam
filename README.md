@@ -1,10 +1,5 @@
 🧑‍🎓 B-Tech Computer Science @LPU '23
 
-🔭 Exploring the Depths of Development
- 
- CODE USING:
- 
-React JS | JavaScript | HTML5 | CSS | Tailwind | SQL | MySQL | DSA | Python
  
  HOW TO REACH ME:
  
