@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/4nupam">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EF2FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Anupam+Upadhyay+👋;Frontend+Developer+💻;Tech+Explorer+🚀;Always+Learning+New+Things+✨">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EF2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anupam+Upadhyay+👋;Frontend+Developer+💻;Tech+Explorer+🚀;Building+Orbexa+IT+Startup+🌐;Learning+AI+%26+Future+Tech+🤖;Always+Eager+to+Collaborate+✨">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 
 # 👨‍💻 Anupam Upadhyay  
 
-🎓 **B.Tech CSE @ LPU '23** | 💻 **Frontend Developer** | 🚀 **Tech Enthusiast**  
+🎓 **B.Tech CSE @ LPU '23** | 💻 **Frontend Developer** | 🚀 **Tech Explorer & Startup Builder**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4nupam&color=blue&style=for-the-badge)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-upadhyay-504a1b208)  
@@ -19,8 +19,21 @@
 ---
 
 ### 👋 About Me  
-I’m a **Frontend Developer** with **1.5+ years of experience** building **scalable, responsive, and interactive web applications**.  
-Currently working remotely at **Mappasurus**, I focus on **React.js, Next.js, Tailwind, APIs, and PWAs**.  
+
+I’m **Anupam Upadhyay**, a passionate **Frontend Developer & Tech Explorer** with a strong focus on building **scalable, user-centric, and impactful digital solutions**.  
+
+Currently, I am:  
+- 🚀 **Leading Orbexa**, my freelance IT startup, where I independently manage projects end-to-end.  
+- 🤖 **Exploring AI & emerging technologies**, constantly upskilling to bring intelligence into modern applications.  
+
+With **2.5+ years of experience**, I’ve had the privilege of:  
+- Collaborating with **startups and freelance clients** across diverse domains.  
+- Contributing to **React Native projects** and developing **cross-platform solutions**.  
+- Building **modern web applications** using React.js, Next.js, Tailwind CSS, Chakra UI, Redux, and more.  
+- Designing **dashboards, PWAs, and interactive UIs** with seamless API integrations.  
+
+✨ I thrive on solving real-world problems through technology, experimenting with new ideas, and pushing my limits as a developer.  
+Always eager to collaborate on **innovative projects** that blend **creativity, AI, and engineering**.  
 
 ---
 
@@ -62,7 +75,7 @@ Currently working remotely at **Mappasurus**, I focus on **React.js, Next.js, Ta
 - 🏗️ Built **end-to-end projects** with **API integrations & dashboards**.  
 - 📊 Designed **QBR dashboards** with **Chart.js & data visualizations**.  
 - 📱 Delivered **mobile-first UI/UX** with **dark mode & animations**.  
-- 🚀 Exploring **system design & scalable web architectures**.  
+- 🚀 Exploring **AI, React Native, and scalable architectures**.  
 
 ---
 
