@@ -1,92 +1,112 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/4nupam">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EF2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anupam+Upadhyay+👋;Frontend+Developer+💻;Tech+Explorer+🚀;Building+Orbexa+IT+Startup+🌐;Learning+AI+%26+Future+Tech+🤖;Always+Eager+to+Collaborate+✨">
-  </a>
-</p>
+# Anupam Upadhyay
+
+**Frontend Developer (React) | 3+ Years Experience**
+
+JavaScript · React.js · Next.js · TypeScript · Scalable UI Architecture
 
 ---
 
-# 👨‍💻 Anupam Upadhyay  
+## About
 
-🎓 **B.Tech CSE @ LPU '23** | 💻 **Frontend Developer** | 🚀 **Tech Explorer & Startup Builder**  
+I am a **Frontend Developer with 3+ years of professional experience**, specializing in building **scalable, maintainable, and production-ready web applications** using React and modern JavaScript technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=4nupam&color=blue&style=for-the-badge)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-upadhyay-504a1b208)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anupam-portfolio-sigma.vercel.app/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.anupamupadhyay@gmail.com)  
+I have worked across **startups, product companies, and client-driven environments**, contributing to applications that focus on **performance, clean architecture, and real-world usability**. My work involves close collaboration with designers, backend engineers, founders, and stakeholders to deliver reliable frontend systems.
 
----
-
-### 👋 About Me  
-
-I’m **Anupam Upadhyay**, a passionate **Frontend Developer & Tech Explorer** with a strong focus on building **scalable, user-centric, and impactful digital solutions**.  
-
-Currently, I am:  
-- 🚀 **Leading Orbexa**, my freelance IT startup, where I independently manage projects end-to-end.  
-- 🤖 **Exploring AI & emerging technologies**, constantly upskilling to bring intelligence into modern applications.  
-
-With **2.5+ years of experience**, I’ve had the privilege of:  
-- Collaborating with **startups and freelance clients** across diverse domains.  
-- Contributing to **React Native projects** and developing **cross-platform solutions**.  
-- Building **modern web applications** using React.js, Next.js, Tailwind CSS, Chakra UI, Redux, and more.  
-- Designing **dashboards, PWAs, and interactive UIs** with seamless API integrations.  
-
-✨ I thrive on solving real-world problems through technology, experimenting with new ideas, and pushing my limits as a developer.  
-Always eager to collaborate on **innovative projects** that blend **creativity, AI, and engineering**.  
+Alongside frontend development, I bring a **product-focused mindset**, taking ownership from requirement analysis to production delivery, while ensuring long-term maintainability and clarity in codebases.
 
 ---
 
-### 🛠️ Tech Stack  
+## Professional Experience
 
-#### 🚀 Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Chakra UI](https://img.shields.io/badge/ChakraUI-319795?style=for-the-badge&logo=chakraui&logoColor=white)  
+### DevNexus Solutions  
+**Frontend Developer**  
+*May 2025 – January 2026*
 
-#### ⚡ Tools & Platforms  
-![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+- Led frontend development for client-facing and internal web applications  
+- Designed scalable React architectures aligned with business and product goals  
+- Collaborated with cross-functional teams on feature planning and delivery  
 
 ---
 
-### 📊 GitHub Stats  
+### Mappasaurus  
+**Frontend Developer**  
+*August 2024 – May 2025*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4nupam&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nupam&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=4nupam&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
+- Developed interactive, data-driven user interfaces  
+- Implemented complex UI workflows and API integrations  
+- Focused on performance optimization and maintainable UI patterns  
 
 ---
 
-### 🌟 Highlights  
-- 🏗️ Built **end-to-end projects** with **API integrations & dashboards**.  
-- 📊 Designed **QBR dashboards** with **Chart.js & data visualizations**.  
-- 📱 Delivered **mobile-first UI/UX** with **dark mode & animations**.  
-- 🚀 Exploring **AI, React Native, and scalable architectures**.  
+### WiJungle  
+**Frontend Engineer**  
+*July 2023 – June 2024*
+
+- Built enterprise-grade dashboards and admin interfaces  
+- Integrated authentication, APIs, and data visualization components  
+- Maintained UI consistency and code quality across large codebases  
 
 ---
 
-### 📫 Connect with Me  
-📧 [Email Me](mailto:dev.anupamupadhyay@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/anupam-upadhyay-504a1b208)  
-🌐 [Portfolio](https://anupam-portfolio-sigma.vercel.app/)  
-🚀 [Featured Project – Web Orbexa](https://web-orbexa-1.vercel.app/)  
+### VenturePact  
+**Frontend Developer**  
+*January 2023 – June 2023*
+
+- Contributed to early-stage startup products and MVPs  
+- Developed modular, reusable frontend components  
+- Worked in fast-paced, delivery-focused development environments  
 
 ---
 
-<p align="center">
-  💡 <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>
+## Technical Skills
+
+### Frontend Technologies
+- JavaScript (ES6+), TypeScript  
+- React.js, Next.js  
+- Vite  
+
+### UI & Styling
+- Tailwind CSS  
+- Chakra UI  
+
+### State Management
+- Redux Toolkit  
+
+### Backend & Services
+- Firebase  
+- Supabase  
+
+### Tools & Platforms
+- Git & GitHub  
+- Vercel  
+- Netlify  
+- REST APIs  
+
+---
+
+## How I Work
+
+- Write clean, readable, and maintainable code  
+- Focus on scalable UI architecture  
+- Prioritize performance and user experience  
+- Communicate clearly with technical and non-technical stakeholders  
+- Take ownership of features from concept to production  
+
+---
+
+## Education
+
+**Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
+Lovely Professional University, India
+
+---
+
+## Contact
+
+- Email: dev.anupamupadhyay@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/anupam-upadhyay-504a1b208  
+- Portfolio: https://my-projects-phi-ten.vercel.app
+
+---
+
+> Focused on building reliable frontend systems that scale with products and businesses.
