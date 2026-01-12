@@ -61,12 +61,12 @@ Alongside frontend development, I bring a **product-focused mindset**, taking ow
 
 | Category | Technologies |
 |--------|-------------|
-| **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, Vite |
-| **UI & Styling** | Tailwind CSS, Chakra UI |
-| **State Management** | Redux Toolkit |
+| **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, Vite , Html|
+| **UI & Styling** | Tailwind CSS, Chakra UI , CSS3 , MUI , Swiper , Lucide , React-Icons|
+| **State Management** | Redux Toolkit , Zustand , React Query , Context API|
 | **Backend & Services** | Firebase, Supabase |
-| **Tools & Platforms** | Git, GitHub, Vercel, Netlify |
-| **APIs** | REST APIs |
+| **Tools & Platforms** | Git, GitHub, Vercel, Netlify , Render|
+| **APIs** | REST APIs , Graph Ql |
 
 
 ---
