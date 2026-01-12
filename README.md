@@ -57,30 +57,17 @@ Alongside frontend development, I bring a **product-focused mindset**, taking ow
 - Worked in fast-paced, delivery-focused development environments  
 
 ---
-
 ## Technical Skills
 
-### Frontend Technologies
-- JavaScript (ES6+), TypeScript  
-- React.js, Next.js  
-- Vite  
+| Category | Technologies |
+|--------|-------------|
+| **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, Vite |
+| **UI & Styling** | Tailwind CSS, Chakra UI |
+| **State Management** | Redux Toolkit |
+| **Backend & Services** | Firebase, Supabase |
+| **Tools & Platforms** | Git, GitHub, Vercel, Netlify |
+| **APIs** | REST APIs |
 
-### UI & Styling
-- Tailwind CSS  
-- Chakra UI  
-
-### State Management
-- Redux Toolkit  
-
-### Backend & Services
-- Firebase  
-- Supabase  
-
-### Tools & Platforms
-- Git & GitHub  
-- Vercel  
-- Netlify  
-- REST APIs  
 
 ---
 
